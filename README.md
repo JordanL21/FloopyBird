@@ -17,9 +17,9 @@
 - Add Pause Screen (COMPLETED)
 - Bug where bird stays paused if you go back to the home screen and press play (FIXED)
 - Bug where pause and game over screen appear at the same time (FIXED)
-- - When bird falls below "transform.position.y < -18", gameOverSFX does not trigger
-- After pausing the game and pressing the resume button, if you pause the game thereafter the spacebar will un-pause the game
 **ERROR(S) ON BUILD**
+- When bird falls below "transform.position.y < -18", gameOverSFX does not trigger
+- After pausing the game and pressing the resume button, if you pause the game thereafter the spacebar will un-pause the game
 - Unable to find player assembly: E:\FlappyBird\Temp\StagingArea\Data\Managed\UnityEngine.TestRunner.dll
   UnityEngine.Debug:LogWarning (object)
   Unity.Burst.Editor.BurstAotCompiler:OnPostBuildPlayerScriptDLLsImpl (UnityEditor.Build.Reporting.BuildReport) (atLibrary/PackageCache/com.unity.burst@1.6.6/Editor/BurstAotCompiler.cs:350)
