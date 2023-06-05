@@ -1,4 +1,4 @@
-**Jordan's Flappy Bird Dev Progress**
+- **Jordan's Flappy Bird Dev Progress**
 - Base Flappy Bird game created
 - Ding trigger sound added
 - Game over sound added
@@ -7,7 +7,7 @@
 - Cloud particle system added
 - Title Screen added
 - Wings animated and added to bird
-**BUGS TO FIX/TO DO**
+- **BUGS TO FIX/TO DO**
 - Score increases after game over (FIXED)
 - High score does not stay after game resets (FIXED)
 - Title Screen not transitioning to Game Screen (FIXED)
